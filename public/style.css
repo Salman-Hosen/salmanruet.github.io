@@ -1,0 +1,31 @@
+.homebody{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: aqua;
+    padding: 50px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+.body{
+    background-color: beige;
+    padding: 20px;
+    margin-bottom: 50px;
+
+}
+
+.footer{
+    background-color: black;
+    padding: 20px;
+}
+
+h3{
+    text-align: center;
+}
